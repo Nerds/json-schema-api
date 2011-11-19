@@ -1,12 +1,12 @@
 /* Globals */
 html {
   font-size: 100%;
-  background: #fff url(../images/background.png) repeat-x fixed;
+  //background: #fff url(../images/background.png) repeat-x fixed;
   color: #484848;
 }
 body {
   margin: 0 auto 0 auto;
-  padding-top: 4.8em; /* 48px */
+  //padding-top: 4.8em; /* 48px */
   padding-bottom: 14.4em; /* 144px */
   width: 600px;
   font: 62.5% "Myriad Pro", "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
@@ -37,9 +37,9 @@ h2 {
 #decorative-element-what-ya-gonna-do-about-it {
   position: relative;
   margin: 0;
-  background: url('../images/yield.png') no-repeat scroll top left;
+  //background: url('../images/yield.png') no-repeat scroll top left;
   width: 247px;
-  height: 166px;
+  height: 80px;
   top: 0px;
   left: -120px;
 }
