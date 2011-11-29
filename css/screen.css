@@ -48,7 +48,7 @@ h2 {
   margin-top: -50px;
 }
 
-#header .summary {
+.summary {
   font-size: 1.8em; /* 18px */
   color: #2F96D4;
   width: 425px;
